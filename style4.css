@@ -1,0 +1,15 @@
+.container{
+    margin-top:30px;
+    background-color:antiquewhite;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.title{
+    text-align:center;
+}
+.registration-form{
+    width:1200px;
+    margin-left:5000px;
+}
+.submit-btn{
+    text-align:center;
+}
